@@ -1,0 +1,51 @@
+h1 {
+     position:relative
+     font-size:48px:
+     font-family:sans-serif;
+     font-style:italic;
+     color: grey: 
+}
+
+. form {
+          background-color: black
+          padding-top:20px;
+          padding-bottom: 30px;
+}
+
+. container-fluid {
+     background-repeat: cover;
+     background-size: 18px;
+     font-style:inherit;
+     font-weight :unset;
+
+}
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     ;
